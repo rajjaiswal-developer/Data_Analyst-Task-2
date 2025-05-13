@@ -1,0 +1,10 @@
+Summary - Data Visualization and Storytelling
+The Power BI project explores a Superstore sales dataset to uncover key insights about sales trends, profitability, and product performance across regions and categories. The report includes five visualizations
+
+1. Monthly Sales Trend
+2. Profit by Region
+3. Sales vs Profit by Category
+4. Top 10 Products by Sales
+5. Profit vs Discount Scatter Plot
+
+Interactive filters allow users to explore the data by Region, Segment, or Category. The final dashboard provides a comprehensive overview for business decision-making.
